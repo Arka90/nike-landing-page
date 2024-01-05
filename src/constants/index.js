@@ -101,7 +101,7 @@ export const reviews = [
   },
   {
     imgURL: customer2,
-    customerName: "Lota Mongeskar",
+    customerName: "Laura Miller",
     rating: 4.5,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
@@ -134,7 +134,7 @@ export const footerLinks = [
     title: "Get in touch",
     links: [
       { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "+91665588785", link: "tel:+91665588785" },
     ],
   },
 ];
